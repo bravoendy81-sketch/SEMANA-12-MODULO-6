@@ -1,0 +1,17 @@
+Entidad: Iniciativa
+Campos principales:
+id
+nombre
+descripcion
+fecha_creacion
+estado
+Propósito:
+Guardar la información de las propuestas o solicitudes creadas por la comunidad y permitir hacer seguimiento a su desarrollo.
+Entidad: Participacion
+Campos principales:
+id
+iniciativa_id
+usuario
+fecha_apoyo
+Propósito:
+Registrar las personas que participan o respaldan una iniciativa, permitiendo conocer el nivel de apoyo ciudadano y la participación generada
