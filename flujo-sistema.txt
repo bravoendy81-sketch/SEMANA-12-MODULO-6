@@ -1,0 +1,6 @@
+Una persona de la comunidad ingresa a la plataforma y registra una iniciativa o solicitud ciudadana.
+El sistema valida la información ingresada y almacena los datos de la propuesta en la base de datos.
+Los demás usuarios pueden consultar las iniciativas disponibles y seleccionar aquella con la que están de acuerdo.
+La plataforma registra la participación de los ciudadanos y actualiza el número de apoyos recibidos.
+Cuando la iniciativa alcanza los apoyos necesarios, el sistema crea automáticamente un documento formal en PDF para su presentación ante la entidad correspondiente.
+Los líderes comunitarios pueden revisar el avance de la petición y realizar seguimiento al proceso.
