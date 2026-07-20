@@ -1,0 +1,3 @@
+Evento: Cuando una iniciativa comunitaria alcanza una cantidad determinada de apoyos registrados en la plataforma.
+Mensaje enviado: “La iniciativa comunitaria ha logrado nuevos apoyos. Ingresa al sistema para revisar su avance y realizar seguimiento.”
+Información que no debe enviarse por seguridad: No se deben compartir nombres completos, números de identificación, contraseñas, datos de contacto privados, ubicaciones exactas ni información confidencial de los participantes.
